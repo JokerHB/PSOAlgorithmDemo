@@ -1,0 +1,13 @@
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\bin\Debug\PSO_MAX_VALUE.exe.config
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\PSO_MAX_VALUE.csprojResolveAssemblyReference.cache
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\MainWindow.baml
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\MainWindow.g.cs
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\App.g.cs
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\PSO_MAX_VALUE_MarkupCompile.cache
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\PSO_MAX_VALUE.g.resources
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\PSO_MAX_VALUE.Properties.Resources.resources
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\PSO_MAX_VALUE.csproj.GenerateResource.Cache
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\bin\Debug\PSO_MAX_VALUE.exe
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\bin\Debug\PSO_MAX_VALUE.pdb
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\PSO_MAX_VALUE.exe
+c:\users\joker\documents\visual studio 2013\Projects\PSO_MAX_VALUE\PSO_MAX_VALUE\obj\Debug\PSO_MAX_VALUE.pdb
